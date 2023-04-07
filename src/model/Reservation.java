@@ -9,7 +9,4 @@ abstract public class Reservation {
 		this.jour = jour;
 		this.mois = mois;
 	}
-
-
-
 }
